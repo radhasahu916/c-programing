@@ -1,0 +1,16 @@
+#include<stdio.h>
+   int main () {
+   float:radius,perimeter'area;
+   const float PI=3.14159.
+
+   printf ("inter the radius");
+   scanf ("%f",&r);
+
+    p=2*3.14
+    a=3.14r*r
+
+    printf("perimeter of circle")
+    scanf("%f",&p);
+
+
+    }
